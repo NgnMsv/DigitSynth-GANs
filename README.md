@@ -1,2 +1,2 @@
-# DigitSynth-Handwritten-Digit-Generation-Using-GANs
+# DigitSynth-GANs
 DigitSynth is an implementation of a Generative Adversarial Network (GAN) designed to generate realistic handwritten digit images. The model is trained on the MNIST dataset, which contains thousands of images of handwritten digits. This project demonstrates how two neural networks, a generator and a discriminator, can work together in competition to produce increasingly realistic digit images.
